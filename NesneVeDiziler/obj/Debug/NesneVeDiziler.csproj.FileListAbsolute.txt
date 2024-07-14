@@ -1,0 +1,7 @@
+C:\Users\90506\source\repos\NesneVeDiziler\NesneVeDiziler\bin\Debug\NesneVeDiziler.exe.config
+C:\Users\90506\source\repos\NesneVeDiziler\NesneVeDiziler\bin\Debug\NesneVeDiziler.exe
+C:\Users\90506\source\repos\NesneVeDiziler\NesneVeDiziler\bin\Debug\NesneVeDiziler.pdb
+C:\Users\90506\source\repos\NesneVeDiziler\NesneVeDiziler\obj\Debug\NesneVeDiziler.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\NesneVeDiziler\NesneVeDiziler\obj\Debug\NesneVeDiziler.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\NesneVeDiziler\NesneVeDiziler\obj\Debug\NesneVeDiziler.exe
+C:\Users\90506\source\repos\NesneVeDiziler\NesneVeDiziler\obj\Debug\NesneVeDiziler.pdb
